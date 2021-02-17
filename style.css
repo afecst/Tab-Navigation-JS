@@ -10,6 +10,11 @@ a {
   padding: 0px;
 }
 
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.5rem;
+}
+
 ul {
   list-style: none;
 }
@@ -25,4 +30,31 @@ img {
 
 * {
   box-sizing: border-box;
+}
+
+/* Flex Container */
+.flex-container {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+/* List menu */
+.list-menu {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.list-menu li {
+  flex: 1 1 240px;
+  min-width: 240px;
+  padding: 30px;
+  background: tomato;
+  border: 3px solid;
+  text-align: center;
+  cursor: pointer;
+}
+
+.list-menu li:nth-child(odd) {
+  background: yellow;
 }
