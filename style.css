@@ -32,6 +32,19 @@ img {
   box-sizing: border-box;
 }
 
+/*Reference*/
+.reference {
+  margin-top: 10px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 1.25rem;
+  color: #252525;
+}
+
+.reference a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #252525;
+}
+
 /* Flex Container */
 .flex-container {
   max-width: 960px;
@@ -74,17 +87,4 @@ img {
 
 .js .list-content li.ativo {
   display: block;
-}
-
-/*Reference*/
-.reference {
-  margin-top: 10px;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 1.25rem;
-  color: #252525;
-}
-
-.reference a {
-  font-family: Arial, Helvetica, sans-serif;
-  color: #252525;
 }
