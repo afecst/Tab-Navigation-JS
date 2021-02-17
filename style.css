@@ -11,8 +11,7 @@ a {
 }
 
 body {
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 1.5rem;
+  font-size: 2rem;
   text-align: center;
 }
 
@@ -68,11 +67,24 @@ img {
   background: #606c38;
   border: 3px solid;
 }
-
+/*CSS JS*/
 .js .list-content li {
   display: none;
 }
 
 .js .list-content li.ativo {
   display: block;
+}
+
+/*Reference*/
+.reference {
+  margin-top: 10px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 1.25rem;
+  color: #252525;
+}
+
+.reference a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #252525;
 }
