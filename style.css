@@ -47,13 +47,13 @@ img {
 .list-menu li {
   flex: 1 1 240px;
   padding: 30px;
-  background: tomato;
+  background: #9c6644;
   border: 3px solid;
   cursor: pointer;
 }
 
 .list-menu li:nth-child(odd) {
-  background: yellow;
+  background: #b08968;
 }
 
 /* List content */
@@ -65,6 +65,14 @@ img {
 .list-content li {
   flex: 1;
   padding: 30px;
-  background: #BABACA;
+  background: #606c38;
   border: 3px solid;
+}
+
+.js .list-content li {
+  display: none;
+}
+
+.js .list-content li.ativo {
+  display: block;
 }
