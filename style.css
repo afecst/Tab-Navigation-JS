@@ -86,5 +86,5 @@ img {
 }
 
 .js .list-content li.ativo {
-  display: block;
+  display: block !important;
 }
