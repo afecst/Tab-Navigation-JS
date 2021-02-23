@@ -1,5 +1,6 @@
 
  <h1 align="center">Tab Navigation - Vanilla JS 📋</h1>
+</br>
 
 ```js
 // 1 - Copie o arquivo script.js e cole em seu arquivo de script
@@ -9,9 +10,10 @@
 
 // 3 - personalize e faça modificações no arquivo de script de acordo com as classes e configurações do seu projeto
 
-// adicione o css essencial em seguida
+// 4 - adicione o css essencial em seguida
 
-/* leia com atenção o código de exemplo do funcionamento do accordion list, não tente copiar apenas. 
+/* leia com atenção o código de exemplo do funcionamento 
+do accordion list, não tente copiar apenas. */
 ```
 
 ```html
@@ -63,6 +65,4 @@ listMenu.forEach((item, index) => {
 .js .list-content li.ativo {
   display: block !important;
 }
-
-
- 
+```
