@@ -1,10 +1,10 @@
 
- <h1 align="center">Tab Navigation - Vanilla JS</h1>
+ <h1 align="center">Tab Navigation - Vanilla JS 📋</h1>
 
 ```js
 // 1 - Copie o arquivo script.js e cole em seu arquivo de script
 
-// 2 - link o arquivo no seu documento html, embaixo segue apenas um exemplo
+// 2 - link o arquivo no seu documento html
 <script src="./script.js"></script>
 
 // 3 - personalize e faça modificações no arquivo de script de acordo com as classes e configurações do seu projeto
@@ -12,8 +12,6 @@
 // adicione o css essencial em seguida
 
 /* leia com atenção o código de exemplo do funcionamento do accordion list, não tente copiar apenas. 
-( possa ser que ocorra conflito de nomes e classes)*/
-
 ```
 
 ```html
