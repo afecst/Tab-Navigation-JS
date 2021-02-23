@@ -1,5 +1,5 @@
 
- <h1>Tab Navigation - Vanilla JS</h1>
+ <h1 align="center">Tab Navigation - Vanilla JS</h1>
 
 ```js
 // 1 - Copie o arquivo script.js e cole em seu arquivo de script
